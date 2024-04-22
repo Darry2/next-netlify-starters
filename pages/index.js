@@ -6,14 +6,14 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>HempofNaturals</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
         <Header title="Domain For Sale" />
         <p className="description">
-          Interested buyers reach out to us at vivekanandambani@gmail.com
+          Interested buyers reach out to us at <b>vivekanandambani@gmail.com</b>
         </p>
       </main>
 
