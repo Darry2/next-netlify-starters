@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Domain For Sale" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Interested buyers reach out to us at vivekanandambani@gmail.com
         </p>
       </main>
 
